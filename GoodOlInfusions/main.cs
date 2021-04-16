@@ -11,7 +11,6 @@ using UnityEngine;
 namespace SamSmoke
 {
     [BepInDependency("com.bepis.r2api")]
-    //Change these
     [BepInPlugin("net.rgh-group.goodolinfusions", "Good Ol' Infusions", "1.0.0")]
     public class GoodOlInfusions : BaseUnityPlugin
     {
